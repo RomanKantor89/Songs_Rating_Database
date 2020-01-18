@@ -1,0 +1,74 @@
+
+--Q1 Part 2--
+
+Title: Rockabye
+Artist: Clean Bandit
+Album: Rockabye (single)
+Rating: excellent
+
+Title: Don't Stop Me Now
+Artist: Queen
+Album: Jazz
+Rating: excellent
+
+Title: Numb
+Artist: Linkin Park 
+Album: Meteora
+Rating: excellent
+
+Title: Ex's and Oh's
+Artist: Elle King
+Album: Love Stuff
+Rating: excellent
+
+Title: Never Gonna Give You Up
+Artist: Rick Astley
+Album: Never Gonna Give You Up (single)
+Rating: excellent
+
+Title: Broken
+Artist: Lovelytheband
+Album: finding it hard to smile
+Rating: excellent
+
+
+
+PL/SQL procedure successfully completed.
+
+--Q2 Part 2-- Test with 2018
+
+
+Table SEL_SONGS created.
+
+Title: Natural
+Artist: Imagine Dragons
+Album: Origins
+Rating: good
+
+3#... skipped since not cool!
+
+PL/SQL procedure successfully completed.
+
+
+--Q2 Part 2-- Test with 2016
+
+2#... skipped since not in the specified year
+
+PL/SQL procedure successfully completed.
+
+
+
+--Q3 Part 2--
+
+Procedure RAND_SELECT compiled
+
+Call Me Maybe
+Narcissistic Cannibal
+Rockabye
+Awful: 0 | Outstanding: 0
+
+
+PL/SQL procedure successfully completed.
+
+
+
