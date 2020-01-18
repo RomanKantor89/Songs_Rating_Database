@@ -2,7 +2,7 @@
 Database that saves songs and their ratings and is able to retrieve songs based on year and and rating.
 
 # Description
-## Inserts a database of songs with the following criteria:  
+### Inserts a database of songs with the following criteria:  
 1. Song title
 2. Artist name
 3. Album name
